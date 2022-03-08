@@ -1,0 +1,16 @@
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.AssemblyInfo.cs
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.exe
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.deps.json
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.runtimeconfig.json
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.dll
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\ref\VowelLetter.dll
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\bin\Debug\net5.0\VowelLetter.pdb
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.dll
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\ref\VowelLetter.dll
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.pdb
+C:\Users\ibm\source\repos\VowelLetter\VowelLetter\obj\Debug\net5.0\VowelLetter.genruntimeconfig.cache
